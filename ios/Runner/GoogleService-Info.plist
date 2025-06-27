@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>123570224099-0jh94ss0tg5hsfagiua5ot7epf3k8lbs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.123570224099-0jh94ss0tg5hsfagiua5ot7epf3k8lbs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>123570224099-mcus96v8i7381ibn9jmhvmk03jrc2uec.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkwdFvAIjzRe1PBbA9uWut3LLCQJt58bk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>123570224099</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.farmmate</string>
+	<key>PROJECT_ID</key>
+	<string>farm-mate-z424pk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>farm-mate-z424pk.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:123570224099:ios:7a4d47c80adcc0463bfed6</string>
+</dict>
+</plist>
