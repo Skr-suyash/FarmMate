@@ -5,7 +5,7 @@ Future initFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-            apiKey: "AIzaSyBlhn9aUdoI_amGvQOBHZGrhZ00Mn4vULw",
+            apiKey: "secret",
             authDomain: "farm-mate-z424pk.firebaseapp.com",
             projectId: "farm-mate-z424pk",
             storageBucket: "farm-mate-z424pk.firebasestorage.app",
