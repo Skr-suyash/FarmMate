@@ -20,9 +20,9 @@ FarmMate is a smart farming assistant app designed using Flutter, FlutterFlow, G
 We aim to build a complete end-to-end marketplace for farmers and integrate IoT for real-time soil health and water level tracking, making precision agriculture more accessible.
 
 ## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
-
+1. Add all api keys like Gemini, Firebase, Maps API
+2. FlutterFlow projects are built to run on the Flutter _stable_ release.
+   
 ## Team Members
 1. Suyash Kumar
 2. Vedant Bahekar
