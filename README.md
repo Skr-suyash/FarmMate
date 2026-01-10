@@ -22,6 +22,7 @@ We aim to build a complete end-to-end marketplace for farmers and integrate IoT 
 ## Getting Started
 1. Add all api keys like Gemini, Firebase, Maps API
 2. FlutterFlow projects are built to run on the Flutter _stable_ release.
+3. Active internet connection is required to perform AI analysis of features such as soil health predictor and leaf disease predictor.
    
 ## Team Members
 1. Suyash Kumar
